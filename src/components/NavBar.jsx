@@ -39,7 +39,7 @@ function NavBar() {
                 {links.map((link) => {
                     return (
                         <li key={link.id} className='px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 duration-200'>
-                            <Link to={link.link} smooth duration={500}>
+                            <Link to={link.link} smooth offset={-100} duration={500}>
                                 {link.link}
                             </Link>
                         </li>
@@ -57,7 +57,7 @@ function NavBar() {
                     {links.map((link) => {
                         return (
                             <li key={link.id} className='px-4 cursor-pointer capitalize py-6 font-medium text-4xl  hover:scale-105 duration-200'>
-                                <Link onClick={()=> setIsOpen(!isOpen)} to={link.link} smooth duration={500}>
+                                <Link onClick={()=> setIsOpen(!isOpen)} to={link.link} smooth offset={-70} duration={500}>
                                     {link.link}
                                 </Link>
                             </li>

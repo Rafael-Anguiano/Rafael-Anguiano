@@ -41,7 +41,7 @@ const SocialLinks = () => {
                 Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href: './assets/Rafael_Anguiano_Resume.pdf',
+            href: '../assets/Rafael_Anguiano_Resume.pdf',
             style: 'rounded-br-md',
             download: true,
         },
