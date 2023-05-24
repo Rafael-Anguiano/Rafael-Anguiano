@@ -7,8 +7,7 @@
 
  > Hi All ! 😁 
  > I´m a Software Engineer, who is really passionate about technology and programming.
-                I have a Bachelors Degree in Computer Software Engineering, and I´m currently working
-                as a Software Developer at Intel.
+                I have a Bachelors Degree in Computer Software Engineering.
 
 > I would like to work in a company where I can learn and grow as a developer, and
                 where I can contribute to the company´s success. I´m a fast learner, and I´m always
