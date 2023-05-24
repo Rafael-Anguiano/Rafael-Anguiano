@@ -9,8 +9,7 @@ const About = () => {
             </div>
             <p className='text-xl mt-20'>
                 I'm a Software Engineer, who is really passionate about technology and programming.
-                I have a Bachelors Degree in Computer Software Engineering, and I'm currently working
-                as a Software Developer at Intel.
+                I have a Bachelors Degree in Computer Software Engineering.
             </p>
             <p className='text-xl'>
                 In the future I'd like to enroll in a master's degree.
