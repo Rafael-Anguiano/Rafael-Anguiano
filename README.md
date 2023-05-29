@@ -6,7 +6,7 @@
 ## About Me:
 
  > Hi All ! 😁 
- > I´m a Software Engineer, who is really passionate about technology and programming.
+ > I´m a Front-End Engineer, who is really passionate about technology and programming.
                 I have a Bachelors Degree in Computer Software Engineering.
 
 > I would like to work in a company where I can learn and grow as a developer, and
