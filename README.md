@@ -4,7 +4,7 @@ I'm a ***Passionate FrontEnd Engineer*** 💻 who loves to work on products that
 
 ## About Me
 
-As a FrontEnd Engineer, I have a strong understanding of the core programming languages and frameworks used in front-end development, including `HTML`, `CSS`, `JavaScript`, and libraries like `React`, `Next.js` and `Vue.js`. 
+As a FrontEnd Engineer, I have a strong understanding of the core programming languages and frameworks used in front-end development, including `JavaScript`, `HTML`, `CSS`, and libraries like `React`, `Next.js` and `Vue.js`. 
 
 I enjoy creating user-friendly, effective, and engaging interfaces.
 
@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
 
 ## Skills
 
-- HTML, CSS, JavaScript
+- JavaScript, HTML, CSS.
 - React.js, Next.js, Vue.js
 - Responsive Design
 - Performance Optimization
