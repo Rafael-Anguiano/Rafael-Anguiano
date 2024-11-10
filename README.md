@@ -1,6 +1,6 @@
 # Hi! I'm Rafael 💻
 
-A passionate engineer who loves to work on products that will be used by large amounts of users and is focused on delivering high quality applications.
+Software Engineer with experience in Frontend Development, and a big interest on algorithms and data structures.
 
 ### Hope you find a ⭐ or something of your interest within my repositories.
 
